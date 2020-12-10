@@ -1,2 +1,2 @@
-# finger-detection
-Implementation of a finger detection algorithm using different non-DL image processing techniques
+#Finger Detection
+An implementation of a finger detection algorithm thought up by [dmg99](https://github.com/dmg99) and myself ([Joobz](https://github.com/Joobz)). When given an image of a hand with some shown fingers, the program should return the number of visible fingers. The program is the one in the format of a python notebook. A long and detailed report can be found in this same repository: [PIVA-Finger_Detection.pdf](https://github.com/Joobz/finger-detection/blob/main/PIVA-Finger_Detection.pdf); as this project was developed in the context of an image processing course.
